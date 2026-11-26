@@ -1,5 +1,9 @@
 {
- "assets": {},
+ "assets": {
+  "rumbling-sound-effects": "db5c5f3802f5d1287fbfa4961f16275432d2fe2f",
+  "selection-beep": "19dd51df9d59eeaf32df0f079c14c1ca7b511d8c",
+  "some-sounds-0": "905e40f0d7a3f467c00d45b38b98156b6b91e041"
+ },
  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
  "site": "https://opengameart.org",
  "source": "opengameart",
